@@ -1,0 +1,1 @@
+# studying_go_high_technologies_park_test
